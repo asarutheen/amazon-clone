@@ -1,0 +1,15 @@
+{
+  "name": "amazonclone",
+  "version": "1.0.0",
+  "description": "amazon clone app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "asarutheen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
